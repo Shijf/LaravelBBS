@@ -1,0 +1,89 @@
+[33mcommit 67e0534423748da0d0ee49886ed5706244cded03[m
+Author: shijf <shijf_private.com>
+Date:   Tue Nov 28 14:11:17 2017 +0000
+
+    push
+
+[33mcommit 8473d35569b7ea94e9129085e321bc09026d93e8[m
+Author: Shijf <shijf_private@163.com>
+Date:   Tue Nov 28 17:44:51 2017 +0800
+
+    "Add captcha"
+
+[33mcommit d6ae2689e90ffef70174fc149d96257c9b8d676a[m
+Author: Shijf <shijf_private@163.com>
+Date:   Tue Nov 28 15:28:24 2017 +0800
+
+    "Finish user auth"
+
+[33mcommit eee77221f70a7507880ed292c8c87de0e1ad6d3b[m
+Author: shijf <shijf_private.com>
+Date:   Tue Nov 28 07:22:27 2017 +0000
+
+    登陆注册
+
+[33mcommit 9a4734edbc0f798faa22a540a461aaa4584a0803[m
+Author: shijf <shijf_private.com>
+Date:   Tue Nov 28 04:42:15 2017 +0000
+
+    Finish basic page layout
+
+[33mcommit 6055cf16eb180aba58707860b31d2658ff66fcf8[m
+Author: Shijf <shijf_private@163.com>
+Date:   Tue Nov 28 12:35:35 2017 +0800
+
+    前端流
+
+[33mcommit 130ee21da0a02e1d1809bb6aec6593f75e2db546[m
+Author: Shijf <shijf_private@163.com>
+Date:   Tue Nov 28 12:25:41 2017 +0800
+
+    助手函数 修改
+
+[33mcommit f04ea4a68d97d8e5545fe90bd4296b83ec02dba9[m
+Author: Shijf <shijf_private@163.com>
+Date:   Tue Nov 28 12:23:40 2017 +0800
+
+    修改前端布局错误
+
+[33mcommit b0657ffab84af7b4dd04291d88e8e4203835cb78[m
+Author: shijf <shijf_private.com>
+Date:   Tue Nov 28 04:21:26 2017 +0000
+
+    前端布局
+
+[33mcommit 0e8491ff0e77da89342b2f0eedd7c0f5c8d97c04[m
+Author: Shijf <shijf_private@163.com>
+Date:   Tue Nov 28 12:18:30 2017 +0800
+
+    修改前端布局错误
+
+[33mcommit 3bd7162c6dd2ad5ace33cc6b76683ea5e66e7baf[m
+Author: shijf <shijf_private.com>
+Date:   Tue Nov 28 04:14:54 2017 +0000
+
+    前端布局
+
+[33mcommit 0549273407aa5a3dd16226dedec04e8511c59825[m
+Author: Shijf <shijf_private@163.com>
+Date:   Tue Nov 28 11:20:00 2017 +0800
+
+    Add custom helpers
+
+[33mcommit c926df62d0f3701585656891ff525da7be2b2c7e[m
+Author: shijf <shijf_private.com>
+Date:   Tue Nov 28 03:09:07 2017 +0000
+
+    Adjust configuration
+
+[33mcommit 1797f1444a2d82e0e30b948e37c61f3ff4622f97[m
+Author: shijf <shijf_private.com>
+Date:   Tue Nov 28 03:02:51 2017 +0000
+
+    Add .editorconfig
+
+[33mcommit 18cd28427ee3af7dec729e1a6edbb56a8655a03d[m
+Author: shijf <shijf_private.com>
+Date:   Tue Nov 28 02:46:36 2017 +0000
+
+    Initial commit
